@@ -1,3 +1,10 @@
+# React Sprint 4
+
+## Exercicis Sprint 4. Itinerari React online IT Academy. 
+
+- Programació en Js ES6
+- Comprovació aplicaci amb tests
+
 # Sprint 4 IT Academy | Video management tool
 
 ## Introduction
