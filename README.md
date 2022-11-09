@@ -6,6 +6,8 @@
 - Refactorització del codi
 - Comprovació aplicació amb tests
 
+Alumne: Jordi Llop
+
 # Sprint 4 IT Academy | Video management tool
 
 ## Introduction
